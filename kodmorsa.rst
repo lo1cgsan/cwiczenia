@@ -10,7 +10,7 @@ im częściej występuje ona w tekście.
 
 Przy użyciu `kodów liter <https://pl.wikipedia.org/wiki/Kod_Morse%E2%80%99a#Litery>`_
 odczytaj treść pierwszej depeszy nadanej przez Morse'a w 1844 roku:
-\*--/\*\*\*\*/*-/-//****/*-/-/****//--*/---/-**//*--/*-*/---/**-/--*/****/-
+\\*--/\*\*\*\*/*-/-//****/*-/-/****//--*/---/-**//*--/*-*/---/**-/--*/****/-
 
 Poniżej wpisz odkodowany tekst:
 
