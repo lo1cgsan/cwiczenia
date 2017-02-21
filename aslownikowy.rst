@@ -24,6 +24,6 @@ Współczynnik kompresji w omówionym przykładzie: 33/44 * 100% = 75%
 Ćwiczenie 1
 ***********
 
-Poniżej wpisz skompresowane metodą słownikową podane zdanie. Oblicz i podaj również współczynnik kompresji.
+Poniżej wpisz skompresowane metodą słownikową podane zdanie. Oblicz i podaj również współczynnik kompresji::
 
-| `Moją pasją są kompresje i ich komputerowe wersje.`
+  Moją pasją są kompresje i ich komputerowe wersje.
