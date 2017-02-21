@@ -10,11 +10,10 @@ Zasada działania polega w uproszczeniu na analizie tekstu, zbudowaniu słownika
 powtarzające się ciągi znaków, a następnie zastępowaniu powtarzających się sekwencji indeksami
 wskazującymi wcześniejsze wystąpienia.
 
-Przykład:
+Przykład::
 
-| The rain in Spain fails mainly on the plain. (44 znaki = 44 bajty)
-| The rain <3,3>Sp<9,4>falls m<11,3>ly on t<34,3>pl<15,3>. (28 znaki + 5 kodów = 33 bajty)
-|
+  The rain in Spain fails mainly on the plain. (44 znaki = 44 bajty)
+  The rain <3,3>Sp<9,4>falls m<11,3>ly on t<34,3>pl<15,3>. (28 znaki + 5 kodów = 33 bajty)
 
 Token <x,y> oznacza, że dana sekwwencja wystąpiła x znaków wcześniej i miała długość y znaków.
 Aby zapisać *x* trzeba 6 bitów, na *y* 2 bity, w sumie 1 token zapisujemy w 1 bajcie.
